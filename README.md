@@ -7,7 +7,7 @@
 <img src="/media/1.png">
 <h1 align="center">Hi 👋, I am Vu 🚴🏻‍♂️ </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
+<a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a> | <a href="https://www.facebook.com/vu.buiquoc/">Facebook</a> | <a href="https://www.facebook.com/vu.buiquoc/">Facebook</a>
 </p>
 
 <p>I am a people person and love being part of communities. <br>
@@ -25,19 +25,19 @@
 
 🤝 I'm looking to collaborate on open source projects/products on AEC field
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
+<h2 align="center">Connect with Me 🤝</h2> 
 
-<!--
-**vu-lbq/vu-lbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/vu-lbq" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/vu-le-bui-quoc/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vu.le.bui.quoc@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
+<a href="https://www.facebook.com/vu.buiquoc/" target="_blank">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
