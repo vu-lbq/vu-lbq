@@ -7,7 +7,7 @@
 <img src="/media/1.png">
 <h1 align="center">Hi 👋, I am Vu 🚴🏻‍♂️ </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a> | <a href="https://www.facebook.com/vu.buiquoc/">Facebook</a> | <a href="https://www.facebook.com/vu.buiquoc/">Facebook</a>
+<a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
 </p>
 
 <p>I am a people person and love being part of communities. <br>
@@ -15,15 +15,15 @@
 <strong>I love to searching for new ways of doing things, specially on using Automation Design and ML/DL/AI on my daily work. 
 </strong>If you like to collaborate on projects, discuss some ideas or products, or student programs just reach out to me via mail. I would be happy to help.</p>
 
-🕸️ I'm fascinated with apps development for automation in AEC field.
+🕸️ I'm fascinated with apps development for automation process in AEC field.
 
 🔭 I’m currently working on ML/DL/AI for IFC model classification 
 
 🌱 I’m currently learning on IFCOpenShell, Computer Vision and Pytorch/Tensorflow
 
-❓ Ask me about VBA, Python, C#, BIM/VDC and Autodesk product
+❓ Ask me about VBA, Python, C#, BIM/VDC and AEC Autodesk products
 
-🤝 I'm looking to collaborate on open source projects/products on AEC field
+🤝 I would love to collaborate on open source projects/products on AEC field
 
 <h2 align="center">Connect with Me 🤝</h2> 
 
@@ -41,3 +41,11 @@
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
