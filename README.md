@@ -41,4 +41,35 @@
 </a>
 </p> 
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
+  </a>
+  <a href="#">
+    <i class="devicon-nextjs-original-wordmark" style="font-size:50px;"></i>      
+  </a>
+</p>
+
+
+
+
+
 <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%">
+
