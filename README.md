@@ -36,16 +36,9 @@
 </a>
 <a href="mailto:vu.le.bui.quoc@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p> 
 <a href="https://www.facebook.com/vu.buiquoc/" target="_blank">
 <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+</p> 
 
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+<img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="100%">
