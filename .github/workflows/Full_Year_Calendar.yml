@@ -2,7 +2,7 @@ name: Full_year_calendar
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.Full_Year_Calendar}}
+  token: ${{ secrets.FULL_YEAR_CALENDAR}}
   base: ""
   plugin_isocalendar: yes
   plugin_isocalendar_duration: full-year
