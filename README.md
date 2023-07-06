@@ -4,7 +4,7 @@
 </head>
 
 <!--<h3 align="center"> Enthusiast BIM/VDC Designer | Digital Design Problem Solver | Noob </h3>-->
-<img src="/media/1.png">
+<img src="/media/1.jpg">
 <h1 align="center">Hi 👋, I am Vu Le Bui Quoc 🚴🏻‍♂️ </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
