@@ -2,7 +2,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 </head>
-## 🎹 🎱 📷 🚴🏻‍♂️ Vu Le Bui Quoc
+
+<!--<h3 align="center"> Enthusiast BIM/VDC Designer | Digital Design Problem Solver | Noob </h3>-->
+<img src="/media/1.png">
+<h1 align="center">Hi 👋, 🎹 🎱 📷 🚴🏻‍♂️ I am Vu Le Bui Quoc</h1>
+<p align="center">
+<a href="https://blog.advaith.co/">Blog</a> | <a href="https://twitter.com/advaith_u">Twitter</a>
+</p>
 
 <!--
 **vu-lbq/vu-lbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
