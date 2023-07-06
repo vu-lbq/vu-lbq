@@ -10,7 +10,9 @@
 <a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
 </p>
 
-<p>I am a people person and love being part of communities. <strong>I am working as a BIM Engineer/Designer in Architecture/Engineer and Construction field. <strong>I love to searching for new ways of doing things, specially on using Automation Design and ML/DL/AI on my daily work. 
+<p>I am a people person and love being part of communities. <br>
+<strong>I am working as a BIM Engineer/Designer in Architecture/Engineer and Construction field. <br>
+<strong>I love to searching for new ways of doing things, specially on using Automation Design and ML/DL/AI on my daily work. 
 </strong>If you like to collaborate on projects, discuss some ideas or products, or student programs just reach out to me via mail. I would be happy to help.</p>
 
 <!--
