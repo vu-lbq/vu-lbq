@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 </head>
 
-<!--<h3 align="center"> Enthusiast BIM/VDC Designer | Digital Design Problem Solver | Noob </h3>-->
+<!--<h3 align="center"> Enthusiast BIM/ VDC Designer | Digital Design Problem Solver | Noob </h3>-->
 <img src="/media/1.png">
 <h1 align="center">Hi 👋, I am Vu 🚴🏻‍♂️ </h1>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p>I am a people person and love being part of communities. <br>
-<strong>I am working as a BIM Engineer/Designer/Specialist in Architecture/Engineer and Construction field. <br>
+<strong>I am working as a BIM Engineer/ Designer/ Specialist in Architecture, Engineer and Construction field. <br>
 <strong>I love to searching for new ways of doing things, specially on using Automation Design and ML/DL/AI on my daily work. 
 </strong>If you like to collaborate on projects, discuss some ideas or products, or student programs just reach out to me via mail. I would be happy to help.</p>
 
@@ -19,7 +19,7 @@
 
 🔭 I’m currently working on ML/DL/AI for IFC model classification 
 
-🌱 I’m currently learning on IFCOpenShell, Computer Vision and Pytorch/Tensorflow
+🌱 I’m currently learning on IFCOpenShell, 2D/3D Objects Detection/Classification on Building model, also Computer Vision and Pytorch/Tensorflow
 
 ❓ Ask me about VBA, Python, C#, BIM/VDC and AEC Autodesk products
 
