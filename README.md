@@ -85,8 +85,7 @@
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" />
-  </a>s
-          
+  </a>   
   <a href="#">
     <i class="devicon-nextjs-original-wordmark" style="font-size:50px;"></i>      
   </a>
