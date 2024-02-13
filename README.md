@@ -86,9 +86,12 @@
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="40" />
   </a>
-    <a href="#">
+  <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="40" width="40" />      
-  </a>  
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40" />      
+  </a>
   <a href="#">
     <i class="devicon-nextjs-original-wordmark" style="font-size:50px;"></i>      
   </a>
