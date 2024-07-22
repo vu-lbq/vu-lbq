@@ -19,7 +19,7 @@
 
 🔭 I’m currently working on ML/DL/AI for IFC model classification 
 
-🌱 I’m currently learning on C/C++, IFCOpenShell, 2D/3D Objects Detection/Classification on Building model, desktop and web apps development with Electron and React, also Computer Vision and Pytorch/Tensorflow
+🌱 I’m currently learning on C/C++, Threejs, 2D/3D Objects Detection/Classification on Building model, desktop and web apps development with Electron and React, also Computer Vision and Pytorch/Tensorflow
 
 ❓ Ask me about VBA, Python, C#, BIM/VDC and AEC Autodesk products
 
