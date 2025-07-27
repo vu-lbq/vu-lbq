@@ -5,7 +5,7 @@
 
 <!--<h3 align="center"> Enthusiast BIM/ VDC Designer | Digital Design Problem Solver | Noob </h3>-->
 <img src="/media/1.png">
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Vu+%F0%9F%9A%B4%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2242A4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Vu+%F0%9F%9A%B4%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
 <p align="center">
 <a href="https://www.linkedin.com/in/vu-le-bui-quoc/">Linkedin</a>
 </p>
